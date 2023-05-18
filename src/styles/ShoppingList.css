@@ -1,0 +1,24 @@
+.lmj-shopping-list {
+	width: 80%;
+	position: relative;
+	left: 300PX;
+}
+
+.lmj-plant-list {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.lmj-itm {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: left;
+}
+
+.lmj-itm-btn {
+	margin-left: 10px;
+}
